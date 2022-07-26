@@ -1,12 +1,10 @@
-## Hi there 👋
 
-<!--
+![真格智能实验室](https://zgwit.com/labs.png)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+无锡真格智能科技有限公司成立于2016年，是一家专业从事物联网软硬件技术研发的高科技企业，公司在物联网领域深耕多年，尤其是在农业养殖的自动控制上有丰富的经验积累。
+
+公司提出“以物联网取代工人”的革命性理念，将“老师傅”的技术和经验转化成自动控制算法，再结合具体软硬件实现物联网控制系统。这样不仅可以节约人力，降低能耗，还可以避免人为事故带来不必要的损失。系统运行过程中会记录各项历史数据，通过定期分析和挖掘，可以反向优化算法，进而获得更大的效益。
+
+
+![微信](https://zgwit.com/wx.jpg)
